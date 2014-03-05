@@ -12,12 +12,9 @@ Many have said that the spark comes from the unconscious mind.  The unconscious 
 to spend time not thinking about it.  Sometimes unrelated or random events will provide the seed around which an idea will crystalize.  Other times it is the interplay of ideas between people that amplifies the creative generator.  Art can allow us to look at the world differently, giving us the impulse of a seed.
 
 What might technology have to offer to this process?  
-Can we manipulate an environment that stimulates this sort of process.
+Can we manipulate an environment to increase the likelihood of these events?
 
-What I would put forward is that it is very difficult to be creative in a vacuum.
-Our own ideas, if left to themselves, tend to go around in the same paths that become trenches that are hard to see out of.  The problem with jumping off the path is the vast multi-dimensional space out there.  Without
-some landmark or compass, it is hard to even see anything.  We need social interactions, semi-random seeds, emotional triggers, distractions, visualization, loose conscious control, reduced self-talk, cross talk with other domains.
-The secret of creativity may be introducing the right randomness that pushes us off the beaten path in just the right direction.
+What I would put forward is that it is very difficult to be creative in a vacuum.  Our own ideas, if left to themselves, tend to go around in the same paths that become trenches that are hard to see out of.  The problem with jumping off the path is the vast multi-dimensional space out there.  Without some landmark or compass, it is hard to even see anything.  We need social interactions, semi-random seeds, emotional triggers, distractions, visualization, loose conscious control, reduced self-talk, cross talk with other domains.  The secret of creativity may be introducing the right randomness that pushes us off the beaten path in just the right direction.
 
 
 ## Link to Prototype
