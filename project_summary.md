@@ -1,5 +1,5 @@
 # Project Title
-Creativity Sparker
+Ganzulator
 
 ## Authors
 Philip Kohn, philipkohn@gmail.com
