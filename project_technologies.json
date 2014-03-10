@@ -4,7 +4,8 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "linux",
+            "google go"
         ],
         "toolkits": [
             "insert toolkits"
