@@ -1,5 +1,5 @@
 # Project Title
-Inner voices
+Inner voice
 
 ## Authors
 Philip Kohn, philipkohn@gmail.com
