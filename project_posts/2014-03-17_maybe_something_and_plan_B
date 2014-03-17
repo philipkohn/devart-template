@@ -1,0 +1,16 @@
+I have done some experimentation, and changed the parameters quite a bit as a result.  I may be starting to see something.  My vision blacks out quickly in the center now, mostly due to the one eye shut, one eye open thing.  I got rid of the pulses, and moved to a more subtle checkerboard modulation of the red screen with a ramp in frequency.  The noise pulses also are subtle and ramp with the visual flickering.
+
+Although it looks promising, I’m having some serious doubts.  I think I may have tried to push things too far with this whole idea.   The whole idea of trying to induce visions, and then manipulate them, is taking a lot of steps at once.  I really must have been crazy to try to do this in a 3 week project!  What is crazier is that I haven’t given up even though I’m starting to realize that this is all pretty out there.  I’m sure that if people where given the right expectations, some of them would have visions given the power of suggestions and placebo.  And even if it doesn’t work I could still make a “what if” sort of piece posing the possibility of some sort of creativity enhancing machine.  I’d rather not go the conceptual route.  I think I always come to this point where I think it might not work, or it will work but end up being a “so what” sort of thing.   When I work enough on something it starts to seem either impossible or trivial.   However, I’m sure I’ve never tried to do something that pushed the limits anywhere near as far as this idea.  In my other installations, I’ve always limited myself to things I know are possible.
+
+So I’m thinking about plan B.   Something I know I can pull off.  Here it is:
+We now have lots of gigapixel images online of things from famous paintings, landscapes and whole cities.  The problem is that on the screen they look just like regular resolution pictures.  It is only by the cumbersome process of panning and zooming that we can start to appreciate the true richness of these images.  What if we could integrate the zoom and pan into the visual process itself in some natural way.
+
+One way would be using eye tracking.  Maybe this has been done, if not I’d be surprised, but a quick search on the web doesn’t find it.  The idea would be to use a smooth function of the eye position history to guide the pan and zoom.  For example, one could pan gradually to center the mean eye position.  The temporally smoothed standard deviation of the eye position could be used to control the rate of zoom in or out.  If you were looking at a lot of fixation points in a small area, the zoom would be more rapidly into that area.  Looking at wide ranging fixation points across the whole field would zoom out.  The rate of zoom would be a smoothed function of the how narrow or wide the range of eye movements were.   Whatever you look at in detail you would see in even more detail, and when you look at the bigger picture you’d see an even bigger picture.
+
+This would be fun to apply to google maps or google earth.
+It may also cause some people to throw up, so there may need to be barf bags available.  Limiting the rate at which things pan, and reducing the angle of view might control the nausea.
+
+I really like this new idea, and I’m sure I could implement it.
+I will play with the visions idea a little more before I switch over.
+
+
