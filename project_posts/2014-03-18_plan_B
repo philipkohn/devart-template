@@ -1,0 +1,33 @@
+My plan is to finish adding the random curves and phoneme stuff to the demo code and give it one last try.  I realize this project was a crazy long shot.  You wanted to see my creative process (at least that was my interpretation, if not this is all super embarrassing!).  Sometimes I think about how to do something that is truly beyond my reach, and along the way I come up with some other unrelated idea.   So with that lets get on to plan B.
+
+Preliminary title: eye zoom
+
+Description:
+
+
+Through technology, the level of detail available to photographers (and in fact all visual artists) has become essentially infinite.  Physical media were always limited by their atomic nature.  A photograph can only be as detailed as the silver it is made of.  With virtual photographs, it is possible to continue zooming, revealing more levels, much like a fractal.  Now the problem is our limited eyes and brain.  Currently one has to zoom and pan manually to explore such an image.  This is very cumbersome and takes away from the whole experience.  Can technology extend our visual system to take in gigapixel photographs?  
+
+What if we could use the way we look at a picture to determine how it would be presented to you?  Can we make it natural and smooth so that the viewer can stop noticing the process of seeing and get taken away by the richness of the image itself?
+
+The real key to this project is the algorithm that translates the recent history of eye movements into a sequence of pans and zooms of the image.  It needs to feel like it is tightly controlled by the viewer, or it will induce nausea.  (Much like the driver of a car is least likely to feel nausea, the element of control is very important.) 
+
+Some experimentation will be needed.  My guess is that smooth pan and zoom will not work well.  More natural might be a set of discrete pan/zoom movements.  The reason is that it is hard to really see things well when they are moving.  Part of the reason may be that moving the eye around the image to a desired place is more difficult.
+
+Another idea occurs to me as I’m writing this.  What about non-photographic images with infinite depth?  We have fractals, which are cool, but become sort of boring because they look the same as you zoom.   At first it is neat to see how each detail reveals the same structure, but once you get that, there is not much more to appreciate.  What if I could make an infinitely deep picture that was not a fractal?  I could do it in the same way that you make a photomosaic, by taking images and matching them to details in other images to build a tree structured mosaic.  I really like this idea, so I will call this plan B+.
+
+What would be the presentation? 
+
+I would definitely not want a screen, or a computer, or wires, or glasses.  All these things have connotations of work or games.  I want to have a fresh connotational canvas to work with.  Making the technology visible is a distraction.  My feeling is that the technology in tech-art should be transparent.   A painter knows what is in each pigment, and also knows that the audience should not care about that.  I generally try to draw attention away from the man behind the curtain.
+
+I like the idea of mixing new and old.  So here is my idea.  Use a copy (or original?) of the old peep-show viewers.  It has a light shielded viewing port and a crank.  The crank may be the zoom speed controller.  The viewing port being fixed will make the eye tracking a lot easier and reliable.  The screen can be pretty small.  A tablet (android of course) might do well here.
+
+Here are the ingredients: 
+
+Old flip viewer
+Shaft encoder hardware for the crank
+Tablet and/or computer
+Eye tracker (could be glasses type)
+Gigapixel images
+Algorithm to map eye movement history to a series of image transformations
+
+
