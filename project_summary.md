@@ -5,7 +5,7 @@ e-Village
 Philip Kohn, philipkohn@gmail.com
 
 ## Description
-It is often said that information and social network technologies have created a global village.  There is a sense that distance is irrelevant and the huge number of people on the planet is likewise irreverent.  The dynamics have returned to that of small groups interacting in a shared living environment.  There is a e-village focused on anything that can be imagined.  Although people may belong to several e-villages, the e-villages themselves often do not interact directly as groups.  Within these wonderful collaborative environments, there is still a level of isolation.
+It is often said that information and social network technologies have created a global village.  There is a sense that distance is irrelevant and the huge number of people on the planet is likewise irreverent.  The dynamics have returned to that of small groups interacting in a shared living environment.  There is a e-village focused on anything that can be imagined.  Although people may belong to several e-villages, the e-villages themselves often do not interact directly as groups.  Within these wonderful collaborative environments, there is still a level of isolation.  People mostly talk to the people that share the same viewpoint, beliefs and interests.  The potential for cross-pollination (which is the essence of creativity) between all these villages is enormous, and mostly untapped.
 
 Can I piece of art be made that symbolizes this paradox, and tries in a small way to resolve it?
 
