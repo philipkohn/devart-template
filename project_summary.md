@@ -1,5 +1,5 @@
 # Project Title
-Global Village
+Global Villages
 
 ## Authors
 Philip Kohn, philipkohn@gmail.com
