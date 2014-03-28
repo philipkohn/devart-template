@@ -14,6 +14,9 @@ public:
     t_alpha = 0.0;
     alpha_freq = 0.0;
       prev_t = 0;
+      in_burst = in_flicker = false;
+      flicker_count = 0;
+      checkerboard = 0;
   }
 
   void setup();
@@ -44,9 +47,22 @@ public:
   float t_alpha;
   float alpha_freq;
     long long prev_t;
+    
+    bool in_flicker;
+    bool in_burst;
+    int flicker_count;
 
   vector <ofImage> noise_images;
+    
+    int checkerboard;
   vector <ofImage> burst_images;
+
+  int num_picture;
+  vector <ofImage> pictures;
+
+    int num_word;
+  vector <string> words;
+  ofTrueTypeFont font;
 
   ofSoundPlayer noise_sound;
   vector <ofSoundPlayer> burst_sounds;

@@ -6,9 +6,18 @@ class testApp : public ofBaseApp {
     
 public:
   testApp() {
-    ready = FALSE;
+    init();
   }
     
+  void init() {
+    ready = FALSE;
+    t_alpha = 0.0;
+    alpha_freq = 0.0;
+      prev_t = 0;
+      in_burst = in_flicker = false;
+      flicker_count = 0;
+  }
+
   void setup();
   void update();
   void draw();
@@ -34,6 +43,14 @@ public:
   float sequenceFPS;
   bool  bFrameIndependent;
   
+  float t_alpha;
+  float alpha_freq;
+    long long prev_t;
+    
+    bool in_flicker;
+    bool in_burst;
+    int flicker_count;
+
   vector <ofImage> noise_images;
   vector <ofImage> burst_images;
 
