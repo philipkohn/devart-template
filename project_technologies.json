@@ -2,6 +2,8 @@
     "technologies": {
         "apis": [
             "Google+",
+            "Google search",
+            "Google image search",
             "youtube",
             "speech recognition"
         ],
@@ -16,9 +18,9 @@
     "themes": [
         "social media",
         "semantic analysis",
-        "text, image and video search"
         "cross-pollination",
-        "creative interaction",
-        "interactive video"
+        "creativity",
+        "interactive video",
+        "multi-goal games"
     ]
 }
