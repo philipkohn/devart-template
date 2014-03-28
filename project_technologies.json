@@ -1,17 +1,24 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google+",
+            "youtube",
+            "speech recognition"
         ],
         "platforms": [
             "linux",
-            "google go"
+            "C++"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openCV"
         ]
     },
     "themes": [
-        "insert themes"
+        "social media",
+        "semantic analysis",
+        "text, image and video search"
+        "cross-pollination",
+        "creative interaction",
+        "interactive video"
     ]
 }
